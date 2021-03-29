@@ -1,0 +1,19 @@
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\bin\phase3Elective2Service.dll.config
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\bin\phase3Elective2Service.dll
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\bin\phase3Elective2Service.pdb
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\bin\Newtonsoft.Json.dll
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\bin\Newtonsoft.Json.xml
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\obj\Debug\phase3Elective2Service.csprojAssemblyReference.cache
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\obj\Debug\phase3Elective2Service.csproj.CopyComplete
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\obj\Debug\phase3Elective2Service.dll
+C:\Users\Collin\OneDrive\ASU - Spring 2020\CSE445\Assignments\Assignment3\phase3Elective2Service\obj\Debug\phase3Elective2Service.pdb
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\bin\phase3Elective2Service.dll.config
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\bin\phase3Elective2Service.dll
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\bin\phase3Elective2Service.pdb
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\bin\Newtonsoft.Json.dll
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\bin\Newtonsoft.Json.xml
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\obj\Debug\phase3Elective2Service.csprojAssemblyReference.cache
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\obj\Debug\phase3Elective2Service.csproj.CoreCompileInputs.cache
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\obj\Debug\phase3Elective2Service.csproj.CopyComplete
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\obj\Debug\phase3Elective2Service.dll
+F:\Backups\School\2020 Spring\CSE445\Assignments\Assignment3\Phase 3 Elective 2\phase3Elective2Service\obj\Debug\phase3Elective2Service.pdb
